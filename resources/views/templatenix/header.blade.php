@@ -58,45 +58,53 @@
                                 <nav class="collapse">
                                     <ul class="nav nav-pills" id="mainNav">
                                         <li class="dropdown-secondary">
-                                            <a class="nav-link active" href="demo-business-consulting-2.html">
+                                            <a class="nav-link active" href="/">
                                                 Inicio
                                             </a>
                                         </li>
                                         <li class="dropdown-secondary">
-                                            <a class="nav-link" href="demo-business-consulting-2-services.html">
-                                                Evidencias
+                                            <a class="nav-link" href="javascript:;">
+                                                Galería
                                             </a>
                                         </li>
                                         <li class="dropdown-secondary">
-                                            <a class="nav-link" href="demo-business-consulting-2-about-us.html">
-                                                Acerca de
-                                            </a>
-                                        </li>
-                                        <li class="dropdown-secondary">
-                                            <a class="nav-link" href="demo-business-consulting-2-team.html">
+                                            <a class="nav-link" href="javascript:;">
                                                 Equipo
                                             </a>
                                         </li>
                                         <li class="dropdown-secondary">
-                                            <a class="nav-link" href="demo-business-consulting-2-blog.html">
+                                            <a class="nav-link" href="javascript:;">
+                                                Acerca de
+                                            </a>
+                                        </li>
+                                        <li class="dropdown-secondary">
+                                            <a class="nav-link" href="javascript:;">
                                                 Blog
                                             </a>
                                         </li>
                                         <li class="dropdown-secondary">
-                                            <a class="nav-link" href="demo-business-consulting-2-contact-us.html">
+                                            <a class="nav-link" href="javascript:;">
                                                 Contacto
                                             </a>
                                         </li>
+                                        {{-- <li class="dropdown-secondary">
+                                            <span class="nave-link">
+                                                <a href="demo-business-consulting-2-contact-us.html" class="btn-primary d-flex align-items-center justify-content-center h-100 w-100 text-color-light font-weight-semibold text-decoration-none text-uppercase custom-button-header-top">Donar</a>
+                                            </span>
+                                        </li> --}}
                                     </ul>
+
                                 </nav>
                             </div>
+                            <a class="btn btn-primary btn-rounded font-weight-semibold px-2 ms-2" href="javascript:;" target="_blank">Quiero Donar</a>
+
                             <button class="btn header-btn-collapse-nav" data-bs-toggle="collapse" data-bs-target=".header-nav-main nav">
                                 <i class="fas fa-bars"></i>
                             </button>
                         </div>
                     </div>
                 </div>
-                <div class="header-column header-column-search justify-content-center align-items-end">
+                {{-- <div class="header-column header-column-search justify-content-center align-items-end">
                     <div class="header-nav-features">
                         <div class="header-nav-feature header-nav-features-search d-inline-flex">
                             <a href="#" class="header-nav-features-toggle" data-focus="headerSearch">
@@ -114,7 +122,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> --}}
             </div>
         </div>
     </div>

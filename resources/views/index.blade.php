@@ -52,9 +52,9 @@
                     <div class="card border-radius-0 border-0 shadow-none">
                         <div class="card-body d-flex align-items-center justify-content-between flex-column z-index-1">
                             <img src="{{ asset('porto/img/demos/business-consulting-2/icons/strategic.png') }}" alt="Strategic Planning" class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="100">
-                            <h4 class="card-title mb-1 font-weight-semibold text-color-secondary appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200">Strategic Planning</h4>
-                            <p class="card-text text-center pt-2 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="300">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc viverra erat orci, ac auctor lacus tincidunt ut...</p>
-                            <a href="#" class="font-weight-bold text-uppercase text-decoration-none mt-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="400">read more +</a>
+                            <h4 class="card-title mb-1 font-weight-semibold text-color-secondary appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200">Donaciones en efectivo</h4>
+                            <p class="card-text text-center pt-2 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="300">Tu ayuda fortalece la causa...</p>
+                            <a href="#" class="font-weight-bold text-uppercase text-decoration-none mt-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="400">Leer más +</a>
                         </div>
                     </div>
                 </div>
@@ -62,9 +62,9 @@
                     <div class="card border-radius-0 border-0 shadow-none">
                         <div class="card-body d-flex align-items-center justify-content-between flex-column z-index-1">
                             <img src="{{ asset('porto/img/demos/business-consulting-2/icons/financial.png') }}" alt="Financial Clean-Up" class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="500">
-                            <h4 class="card-title mb-1 font-weight-semibold text-color-secondary appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600">Financial Clean-Up</h4>
-                            <p class="card-text text-center pt-2 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="700">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc viverra erat orci, ac auctor lacus tincidunt ut...</p>
-                            <a href="#" class="font-weight-bold text-uppercase text-decoration-none mt-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">read more +</a>
+                            <h4 class="card-title mb-1 font-weight-semibold text-color-secondary appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600">Donaciones en especie</h4>
+                            <p class="card-text text-center pt-2 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="700">Con este tipo de donativos podemos cubrir las necesidades diarias de muchos hogares...</p>
+                            <a href="#" class="font-weight-bold text-uppercase text-decoration-none mt-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">Leer más +</a>
                         </div>
                     </div>
                 </div>
@@ -72,9 +72,9 @@
                     <div class="card border-radius-0 border-0 shadow-none">
                         <div class="card-body d-flex align-items-center justify-content-between flex-column z-index-1 border-end-0">
                             <img src="{{ asset('porto/img/demos/business-consulting-2/icons/cash.png') }}" alt="Cash Flow Planning" class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="900">
-                            <h4 class="card-title mb-1 font-weight-semibold text-color-secondary appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1000">Cash Flow Planning</h4>
-                            <p class="card-text text-center pt-2 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1100">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc viverra erat orci, ac auctor lacus tincidunt ut...</p>
-                            <a href="#" class="font-weight-bold text-uppercase text-decoration-none mt-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1200">read more +</a>
+                            <h4 class="card-title mb-1 font-weight-semibold text-color-secondary appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1000">Trabajo de voluntario</h4>
+                            <p class="card-text text-center pt-2 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1100">Con tu apoyo contribuyes al bienestar y desarrollo de muchas comunidades...</p>
+                            <a href="#" class="font-weight-bold text-uppercase text-decoration-none mt-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1200">Leer más +</a>
                         </div>
                     </div>
                 </div>
@@ -87,23 +87,24 @@
         <div class="container">
             <div class="row justify-content-end align-items-center h-100">
                 <div class="col-lg-5 position-relative bg-color-light z-index-1 col-our-services-text">
-                    <p class="text-uppercase font-weight-semibold mb-1 text-color-primary appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="100"><span class="line-pre-title bg-color-primary"></span>our services</p>
-                    <h2 class="text-color-secondary font-weight-bold text-capitalize mb-4 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="200">What We Do?</h2>
-                    <p class="font-weight-semibold mb-4 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="300">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ut.</p>
-                    <p class="mb-4 pb-2 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="400">Cras a elit sit amet leo accumsan volutpat. Suspendisse hendrerit vehicula leo, vel efficitur felis ultrices non. Integer aliquet.</p>
+                    <p class="text-uppercase font-weight-semibold mb-1 text-color-primary appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="100"><span class="line-pre-title bg-color-primary"></span>Nuestros servicios</p>
+                    <h2 class="text-color-secondary font-weight-bold text-capitalize mb-4 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="200">Qué hacemos?</h2>
+                    <p class="font-weight-semibold mb-4 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="300">Laurentis Humanity A.C.</p>
+                    <p class="mb-4 pb-2 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="400">En Laurentis Humanity AC ofrece servicios de apoyo a familias y personas de bajos ingresos.</p>
                     <div class="accordion accordion-sm appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="500" id="accordionServices">
                         <div class="border-radius mb-1 border-0 card-accordion-our-services-container">
                             <div class="card-header py-2 bg-color-quaternary">
                                 <h4 class="card-title m-0">
                                     <a class="accordion-toggle text-color-tertiary font-weight-semibold" data-bs-toggle="collapse" data-bs-parent="#accordionServices" href="#collapse3One">
-                                        Management Consulting
+                                        Donación de Alimentos Perecederos y Perecederos
                                     </a>
                                 </h4>
                             </div>
                             <div id="collapse3One" class="collapse card-accordion-our-services show">
                                 <div class="card-body">
-                                    <p class="mb-0">Cras a elit sit amet leo accumsan volutpat. Suspendisse hendrerit vehicula leo, vel efficitur felis ultrices non. Integer aliquet ullamcorper dolor, quis sollicitudin.</p>
-                                    <a href="demo-business-consulting-2-services.html" class="font-weight-bold text-uppercase text-decoration-none d-block mt-3">read more +</a>
+                                    <p class="mb-0">Ayudamos a las familias a mantener la comida en la mesa.
+                                    </p>
+                                    <a href="demo-business-consulting-2-services.html" class="font-weight-bold text-uppercase text-decoration-none d-block mt-3">Leer más +</a>
                                 </div>
                             </div>
                         </div>
@@ -111,13 +112,13 @@
                             <div class="card-header py-2 bg-color-quaternary">
                                 <h4 class="card-title m-0">
                                     <a class="accordion-toggle text-color-tertiary font-weight-semibold" data-bs-toggle="collapse" data-bs-parent="#accordionServices" href="#collapse3Two">
-                                        Business Coaching
+                                        Donación de ropas y artículos domésticos de segunda mano
                                     </a>
                                 </h4>
                             </div>
                             <div id="collapse3Two" class="collapse card-accordion-our-services">
                                 <div class="card-body">
-                                    <p class="mb-0">Cras a elit sit amet leo accumsan volutpat. Suspendisse hendrerit vehicula leo, vel efficitur felis ultrices non. Integer aliquet ullamcorper dolor, quis sollicitudin.</p>
+                                    <p class="mb-0">Donamos ropas o artículos domésticos nuevos o de segunda mano. Artículos desinfectados. También regalamos juguetes.</p>
                                     <a href="demo-business-consulting-2-services.html" class="font-weight-bold text-uppercase text-decoration-none d-block mt-3">read more +</a>
                                 </div>
                             </div>
@@ -126,43 +127,13 @@
                             <div class="card-header py-2 bg-color-quaternary">
                                 <h4 class="card-title m-0">
                                     <a class="accordion-toggle text-color-tertiary font-weight-semibold" data-bs-toggle="collapse" data-bs-parent="#accordionServices" href="#collapse3Three">
-                                        Performance Consulting and Coaching
+                                        Material Médico
                                     </a>
                                 </h4>
                             </div>
                             <div id="collapse3Three" class="collapse card-accordion-our-services">
                                 <div class="card-body">
-                                    <p class="mb-0">Cras a elit sit amet leo accumsan volutpat. Suspendisse hendrerit vehicula leo, vel efficitur felis ultrices non. Integer aliquet ullamcorper dolor, quis sollicitudin.</p>
-                                    <a href="demo-business-consulting-2-services.html" class="font-weight-bold text-uppercase text-decoration-none d-block mt-3">read more +</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="border-radius mb-1 border-0 card-accordion-our-services-container">
-                            <div class="card-header py-2 bg-color-quaternary">
-                                <h4 class="card-title m-0">
-                                    <a class="accordion-toggle text-color-tertiary font-weight-semibold" data-bs-toggle="collapse" data-bs-parent="#accordionServices" href="#collapse3Four">
-                                        Strategy and Marketing
-                                    </a>
-                                </h4>
-                            </div>
-                            <div id="collapse3Four" class="collapse card-accordion-our-services">
-                                <div class="card-body">
-                                    <p class="mb-0">Cras a elit sit amet leo accumsan volutpat. Suspendisse hendrerit vehicula leo, vel efficitur felis ultrices non. Integer aliquet ullamcorper dolor, quis sollicitudin.</p>
-                                    <a href="demo-business-consulting-2-services.html" class="font-weight-bold text-uppercase text-decoration-none d-block mt-3">read more +</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="border-radius mb-1 border-0 card-accordion-our-services-container">
-                            <div class="card-header py-2 bg-color-quaternary">
-                                <h4 class="card-title m-0">
-                                    <a class="accordion-toggle text-color-tertiary font-weight-semibold" data-bs-toggle="collapse" data-bs-parent="#accordionServices" href="#collapse3Five">
-                                        Service Benchmarking
-                                    </a>
-                                </h4>
-                            </div>
-                            <div id="collapse3Five" class="collapse card-accordion-our-services">
-                                <div class="card-body">
-                                    <p class="mb-0">Cras a elit sit amet leo accumsan volutpat. Suspendisse hendrerit vehicula leo, vel efficitur felis ultrices non. Integer aliquet ullamcorper dolor, quis sollicitudin.</p>
+                                    <p class="mb-0">Donamos artículos farmacéuticos no caducados.</p>
                                     <a href="demo-business-consulting-2-services.html" class="font-weight-bold text-uppercase text-decoration-none d-block mt-3">read more +</a>
                                 </div>
                             </div>
@@ -291,18 +262,18 @@
         <div class="container">
             <div class="row justify-content-between">
                 <div class="col-xl-5">
-                    <p class="text-uppercase font-weight-semibold mb-1 text-color-light appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="100"><span class="line-pre-title bg-color-primary appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="200"></span>Are you looking for a</p>
-                    <h2 class="text-color-light font-weight-bold text-capitalize mb-1 letter-spacing-08 font-size-32 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="200">Business Plan Consultant?</h2>
-                    <p class="font-weight-semibold text-color-light mb-0 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="300">Schedule your company strategy session right now!</p>
+                    <p class="text-uppercase font-weight-semibold mb-1 text-color-light appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="100"><span class="line-pre-title bg-color-primary appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="200"></span>Haz el bien dando bienes.</p>
+                    <h2 class="text-color-light font-weight-bold text-capitalize mb-1 letter-spacing-08 font-size-32 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="200">Si no lo usas. ¡Dónalo!</h2>
+                    <p class="font-weight-semibold text-color-light mb-0 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="300">Otros lo necesitan</p>
                 </div>
                 <div class="col-xl-6 d-flex align-items-start align-items-sm-center justify-content-start justify-content-xl-end mt-4 mt-xl-0 flex-column flex-sm-row">
                     <span class="are-you-looking-for-phone py-2 d-flex align-items-center text-color-light font-weight-semibold text-uppercase text-4 mb-4 mb-md-0 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="500">
                         <span>
                             <img width="18" height="25" src="{{ asset('porto/img/demos/business-consulting-2/icons/phone.svg') }}" alt="Phone">
                         </span>
-                        <a class="text-color-light text-decoration-none" href="tel:123-456-7890">(800) 123-4567</a>
+                        <a class="text-color-light text-decoration-none" href="tel:5523316986">(+52) 55 2331 6986</a>
                     </span>
-                    <a href="demo-business-consulting-2-contact-us.html" class="btn btn-primary custom-btn text-center text-uppercase text-decoration-none border-0 py-0 px-5 font-weight-semibold appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="600">free initial consultation</a>
+                    <a href="demo-business-consulting-2-contact-us.html" class="btn btn-primary custom-btn text-center text-uppercase text-decoration-none border-0 py-0 px-5 font-weight-semibold appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="600">Contacto para donar</a>
                 </div>
             </div>
         </div>
@@ -312,8 +283,8 @@
         <div class="container">
             <div class="row mt-3 pt-5">
                 <div class="col">
-                    <p class="text-uppercase font-weight-semibold mb-1 text-color-primary appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="100"><span class="line-pre-title bg-color-primary"></span>our blog</p>
-                    <h2 class="text-color-secondary font-weight-bold text-capitalize mb-4 custom-letter-spacing-2 custom-text-1 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="200">News and Articles</h2>
+                    <p class="text-uppercase font-weight-semibold mb-1 text-color-primary appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="100"><span class="line-pre-title bg-color-primary"></span>Blog</p>
+                    <h2 class="text-color-secondary font-weight-bold text-capitalize mb-4 custom-letter-spacing-2 custom-text-1 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="200">Actividades</h2>
                 </div>
             </div>
             <div class="row mb-3 pb-5">

@@ -1108,7 +1108,7 @@ html .overlay-color-light:not(.no-skin):before {
 
 html .btn-primary {
 	background-color: #00BED7;
-	border-color: #00bed7 #00bed7 #df1c3a;
+	border-color: #00bed7 #00bed7 #4651e8;
 	color: #FFF;
 	--color: #4651e8;
 	--hover: #68ec68;
@@ -1124,7 +1124,7 @@ html .btn-primary.hover {
 
 html .btn-primary:hover:not(.bg-transparent),
 html .btn-primary.hover:not(.bg-transparent) {
-	background-color: #ec687c;
+	background-color: #09c8e2;
 }
 
 html .btn-primary:focus,
@@ -4663,7 +4663,7 @@ html[dir="rtl"] #header .tip-light:before {
 }
 
 #header .header-btn-collapse-nav {
-	background: #e8465f;
+	background: #00bed7;
 }
 
 @media (min-width: 992px) {
@@ -4712,11 +4712,11 @@ html[dir="rtl"] #header .tip-light:before {
 	}
 
 	#header .header-nav.header-nav-links nav > ul li:hover > a {
-		color: #e8465f;
+		color: #00bed7;
 	}
 
 	#header .header-nav.header-nav-links nav > ul:not(:hover) > li > a.active {
-		color: #e8465f;
+		color: #00bed7;
 	}
 
 	#header .header-nav.header-nav-links.header-nav-links-vertical-slide nav ul li.dropdown .dropdown-menu::-webkit-scrollbar-thumb {
@@ -5267,37 +5267,37 @@ html[dir="rtl"] #header .tip-light:before {
 
 @media (max-width: 991px) {
 	#header .header-nav-main:not(.header-nav-main-mobile-dark) nav > ul > li > a {
-		color: #e8465f;
+		color: #00bed7;
 	}
 
 	#header .header-nav-main:not(.header-nav-main-mobile-dark) nav > ul > li > a:active {
-		color: #e8465f;
+		color: #00bed7;
 	}
 
 	#header .header-nav-main:not(.header-nav-main-mobile-dark) nav > ul > li > a.active {
-		background: #e8465f;
+		background: #00bed7;
 	}
 
 	#header .header-nav-main:not(.header-nav-main-mobile-dark) nav > ul > li > a.active:focus,
 	#header .header-nav-main:not(.header-nav-main-mobile-dark) nav > ul > li > a.active:hover {
-		background: #e8465f;
+		background: #00bed7;
 	}
 
 	#header .header-nav-main.header-nav-main-mobile-dark nav > ul > li > a.active {
-		background: #e8465f;
+		background: #00bed7;
 	}
 
 	#header .header-nav-main.header-nav-main-mobile-dark nav > ul > li > a.active:focus,
 	#header .header-nav-main.header-nav-main-mobile-dark nav > ul > li > a.active:hover {
-		background: #e8465f;
+		background: #00bed7;
 	}
 
 	html.side-header-hamburguer-sidebar #header.side-header .header-nav.header-nav-links .header-nav-main.header-nav-main-mobile-dark nav > ul > li > a.active {
-		color: #e8465f !important;
+		color: #00bed7 !important;
 	}
 
 	html.side-header-hamburguer-sidebar #header.side-header .header-nav.header-nav-links nav::-webkit-scrollbar-thumb {
-		background-color: #e8465f;
+		background-color: #00bed7;
 	}
 
 	html.side-header-hamburguer-sidebar #header.side-header .header-nav.header-nav-links nav > ul > li > a.active {
