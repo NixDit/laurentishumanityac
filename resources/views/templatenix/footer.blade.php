@@ -32,17 +32,17 @@
                         </ul>
                         <ul class="social-icons custom-social-icons">
                             <li class="social-icons-instagram">
-                                <a class="custom-bg-color-light-grey" href="http://www.instagram.com/" target="_blank" title="Instagram">
+                                <a class="custom-bg-color-light-grey" href="https://www.instagram.com/laurentishumanity/" target="_blank" title="Instagram">
                                     <i class="fab fa-instagram text-4 font-weight-semibold text-color-secondary"></i>
                                 </a>
                             </li>
                             <li class="social-icons-twitter">
-                                <a class="custom-bg-color-light-grey" href="http://www.twitter.com/" target="_blank" title="Twitter">
-                                    <i class="fab fa-twitter text-4 font-weight-semibold text-color-secondary"></i>
+                                <a class="custom-bg-color-light-grey" href="https://www.tiktok.com/@laurentishumanity/" target="_blank" title="Twitter">
+                                    <i class="fab fa-tiktok text-4 font-weight-semibold text-color-secondary"></i>
                                 </a>
                             </li>
                             <li class="social-icons-facebook">
-                                <a class="custom-bg-color-light-grey" href="http://www.facebook.com/" target="_blank" title="Facebook">
+                                <a class="custom-bg-color-light-grey" href="https://www.facebook.com/laurentishumanityac/" target="_blank" title="Facebook">
                                     <i class="fab fa-facebook-f text-4 font-weight-semibold text-color-secondary"></i>
                                 </a>
                             </li>
@@ -90,6 +90,14 @@
         <div class="row">
             <div class="col-lg-12 text-center m-0">
                 <p class="text-color-grey">Laurentis Humanity AC. ©  2023.  Todos los derechos reservados</p>
+            </div>
+            <div class="col-lg-12 text-center m-0">
+                <a href="https://www.nixdit.com/" target="_blank" class="logo pr-0 pr-lg-3">
+                    <img alt="Logo Nixdit" src="{{ asset('porto/img/logos/logo-footer.png') }}" class="opacity-5" height="33">
+                </a>
+                <div class="col text-center">
+                <p>Sitio desarrollado por NIX Diseño, Innovación y Tecnología.</p>
+                </div>
             </div>
         </div>
     </div>

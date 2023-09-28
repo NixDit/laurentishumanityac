@@ -90,7 +90,7 @@
                     <p class="text-uppercase font-weight-semibold mb-1 text-color-primary appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="100"><span class="line-pre-title bg-color-primary"></span>Nuestros servicios</p>
                     <h2 class="text-color-secondary font-weight-bold text-capitalize mb-4 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="200">Qué hacemos?</h2>
                     <p class="font-weight-semibold mb-4 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="300">Laurentis Humanity A.C.</p>
-                    <p class="mb-4 pb-2 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="400">En Laurentis Humanity AC ofrece servicios de apoyo a familias y personas de bajos ingresos.</p>
+                    <p class="mb-4 pb-2 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="400">Servir a las poblaciones en alto estado de vulnerabilidad, principalmente en tópicos de la educación y salud, con la colaboración de organismo o empresas que pueden apoyar en programas que empoderen a los que más lo necesitan. En Laurentis Humanity AC ofrece servicios de apoyo a familias y personas de bajos ingresos.</p>
                     <div class="accordion accordion-sm appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="500" id="accordionServices">
                         <div class="border-radius mb-1 border-0 card-accordion-our-services-container">
                             <div class="card-header py-2 bg-color-quaternary">
@@ -152,16 +152,16 @@
                 <div class="col-lg-6">
                     <p class="text-uppercase font-weight-semibold mb-1 text-color-primary appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="100"><span class="line-pre-title bg-color-primary"></span>Patrocinadores y voluntarios</p>
                     <h2 class="text-color-secondary font-weight-bold text-capitalize mb-4 custom-letter-spacing-2 custom-text-1 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="200">Equipo Laurentis</h2>
-                    <p class="font-weight-semibold mb-4 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="300">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras a elit sit amet leo accumsan volutpat. Suspendisse hendrerit vehicula leo, vel efficitur felis ultrices non. Integer aliquet ullamcorper dolor, quis sollicitudin.</p>
-                    <p class="mb-4 pb-2 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="400">Cras a elit sit amet leo accumsan volutpat. Suspendisse hendrerit vehicula leo, vel efficitur felis ultrices non. Integer aliquet ullamcorper dolor, quis sollicitudin.</p>
-                    <div class="d-flex align-items-center justify-content-start appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="600">
+                    <p class="font-weight-semibold mb-4 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="300">En nombre de Laurentis Humanity A.C. queremos agradecer a los patrocinadores, voluntarios y todos los que suman el esfuerzo en solucionar un problema en su entorno y tienen la oportunidad de hacer un cambio directo a su comunidad.</p>
+                    <p class="mb-4 pb-2 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="400">Agradecer a todos los patrocinadores, voluntarios por su apoyo. Con su contribución está apoyando a familias carentes de recursos y el desarrollo de muchos niños y niñas que lo necesitan. Agradecemos su donativo porque con cada aporte que recibimos, nos permite continuar con nuestro trabajo por un mundo mejor.</p>
+                    {{-- <div class="d-flex align-items-center justify-content-start appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="600">
                         <div class="circular-bar custom-circular-bar m-0">
                             <div class="circular-bar-chart" data-percent="89" data-plugin-options="{'barColor': '#e8465f'}">
                                 <strong class="text-5 text-color-tertiary">89%</strong>
                             </div>
                         </div>
                         <h4 class="font-weight-bold text-color-tertiary m-0 ms-3">Successful cases<br/>in 15 years.</h4>
-                    </div>
+                    </div> --}}
                 </div>
                 <div class="col-lg-6 col-coaching-consulting-imgs p-relative">
                     <div class="card border-radius-0 box-shadow-1 border-0 p-3 appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="300">

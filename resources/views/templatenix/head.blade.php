@@ -9,9 +9,16 @@
 
         <title>@yield('title', 'Laurentis Humanity')</title>
 
-        <meta name="keywords" content="WebSite Template" />
-        <meta name="description" content="Porto - Multipurpose Website Template">
-        <meta name="author" content="okler.net">
+        <meta name="description" content="Servir a las poblaciones en alto estado de vulnerabilidad, principalmente en tópicos de la educación y salud">
+        <meta name="author" content="nixdit.com">
+        <link rel="canonical" href="https://www.laurentishumanity.com/">
+        <meta property="og:locale" content="es_MX">
+        <meta property="og:type" content="website">
+        <meta property="og:title" content="Servir a las poblaciones en alto estado de vulnerabilidad">
+        <meta property="og:url" content="www.laurentishumanity.com">
+        <meta property="og:site_name" content="Donacion de ropa, donación de despensas, donacion de alimentos">
+        <meta name="keywords" content="Donación, Laurentis Humanity, Donación de alimentos, Donación de ropa, Apoyo a los pobres">
+
 
         <!-- Favicon -->
         {{-- <link rel="icon" href="{{ asset('favicon.ico') }}" type="image/x-icon" /> --}}
