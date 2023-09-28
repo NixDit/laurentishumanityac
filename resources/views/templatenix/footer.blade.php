@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row py-5 custom-row-footer">
             <div class="col-12 col-sm-12 col-lg-3 d-flex align-items-start flex-column footer-column custom-footer-column-logo">
-                <img width="123" height="32" src="{{ asset('porto/img/demos/business-consulting-2/logos/porto.png') }}" alt="Logo Footer">
+                <img width="133" height="52" src="{{ asset('porto/img/demos/business-consulting-2/logos/logo-laurentis.png') }}" alt="Logo Laurentis Humanity">
                 <p class="d-block m-0 text-color-default">Servir a las poblaciones en alto estado de vulnerabilidad</p>
             </div>
             <div class="col-12 col-sm-12 col-lg-9 footer-column">
@@ -51,32 +51,32 @@
                     <nav class="nav-footer w-100 d-none d-lg-block">
                         <ul class="nav nav-pills justify-content-end" id="mainNav">
                             <li class="dropdown-secondary">
-                                <a class="nav-link text-color-secondary font-weight-bold letter-spacing-05 text-color-hover-primary" href="demo-business-consulting-2.html">
+                                <a class="nav-link text-color-secondary font-weight-bold letter-spacing-05 text-color-hover-primary" href="javacript:;">
                                     Inicio
                                 </a>
                             </li>
                             <li class="dropdown-secondary">
-                                <a class="nav-link text-color-secondary font-weight-bold letter-spacing-05 text-color-hover-primary" href="demo-business-consulting-2-about-us.html">
+                                <a class="nav-link text-color-secondary font-weight-bold letter-spacing-05 text-color-hover-primary" href="javacript:;">
                                     Galería
                                 </a>
                             </li>
                             <li class="dropdown-secondary">
-                                <a class="nav-link text-color-secondary font-weight-bold letter-spacing-05 text-color-hover-primary" href="demo-business-consulting-2-services.html">
+                                <a class="nav-link text-color-secondary font-weight-bold letter-spacing-05 text-color-hover-primary" href="javacript:;">
                                     Equipo
                                 </a>
                             </li>
                             <li class="dropdown-secondary">
-                                <a class="nav-link text-color-secondary font-weight-bold letter-spacing-05 text-color-hover-primary" href="demo-business-consulting-2-cases.html">
+                                <a class="nav-link text-color-secondary font-weight-bold letter-spacing-05 text-color-hover-primary" href="javacript:;">
                                     Acerca de
                                 </a>
                             </li>
                             <li class="dropdown-secondary">
-                                <a class="nav-link text-color-secondary font-weight-bold letter-spacing-05 text-color-hover-primary" href="demo-business-consulting-2-team.html">
+                                <a class="nav-link text-color-secondary font-weight-bold letter-spacing-05 text-color-hover-primary" href="javacript:;">
                                     Blog
                                 </a>
                             </li>
                             <li class="dropdown-secondary">
-                                <a class="nav-link text-color-secondary font-weight-bold letter-spacing-05 text-color-hover-primary" href="demo-business-consulting-2-blog.html">
+                                <a class="nav-link text-color-secondary font-weight-bold letter-spacing-05 text-color-hover-primary" href="javacript:;">
                                     contacto
                                 </a>
                             </li>

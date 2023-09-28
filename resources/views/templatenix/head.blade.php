@@ -15,8 +15,8 @@
         <meta property="og:locale" content="es_MX">
         <meta property="og:type" content="website">
         <meta property="og:title" content="Servir a las poblaciones en alto estado de vulnerabilidad">
-        <meta property="og:url" content="www.laurentishumanity.com">
-        <meta property="og:site_name" content="Donacion de ropa, donación de despensas, donacion de alimentos">
+        <meta property="og:url" content="https://www.laurentishumanity.com/">
+        <meta property="og:site_name" content="Laurentis Humanity, Donacion de ropa, donación de despensas, donacion de alimentos">
         <meta name="keywords" content="Donación, Laurentis Humanity, Donación de alimentos, Donación de ropa, Apoyo a los pobres">
 
 
