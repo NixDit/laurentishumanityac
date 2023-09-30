@@ -3,7 +3,7 @@
         <div class="row py-5 custom-row-footer">
             <div class="col-12 col-sm-12 col-lg-3 d-flex align-items-start flex-column footer-column custom-footer-column-logo">
                 <img width="133" height="52" src="{{ asset('porto/img/demos/business-consulting-2/logos/logo-laurentis.png') }}" alt="Logo Laurentis Humanity">
-                <p class="d-block m-0 text-color-default">Servir a las poblaciones en alto estado de vulnerabilidad</p>
+                <p class="d-block m-0 text-color-default">Servir a las poblaciones en alto estado de vulnerabilidad.</p>
             </div>
             <div class="col-12 col-sm-12 col-lg-9 footer-column">
                 <div class="d-flex align-items-start align-sm-items-end justify-content-between flex-column h-100 mt-4 mt-sm-0">
@@ -12,15 +12,15 @@
                             <li class="nav-item d-inline-flex flex-column flex-lg-row">
                                 <span class="footer-nav-phone py-2 d-flex align-items-center text-color-secondary font-weight-semibold text-uppercase justify-content-start mb-2 mb-lg-0">
                                     <span>
-                                        <img width="15" height="18" src="{{ asset('porto/img/demos/business-consulting-2/icons/phone.svg') }}" alt="Phone">
+                                        <img width="15" height="18" src="{{ asset('porto/img/demos/business-consulting-2/icons/phone.svg') }}" alt="Phone" title="Phone">
                                     </span>
                                     <a class="font-weight-bold text-color-secondary text-color-hover-primary text-decoration-none" href="tel:5523316986">(+52) 55 2331 6986</a>
                                 </span>
                                 <span class="footer-nav-email px-0 font-weight-normal d-flex align-items-center justify-content-start mb-2 mb-lg-0">
                                     <span>
-                                        <img width="25" height="18" src="{{ asset('porto/img/demos/business-consulting-2/icons/mail.svg') }}" alt="Mail">
+                                        <img width="25" height="18" src="{{ asset('porto/img/demos/business-consulting-2/icons/mail.svg') }}" alt="Mail" title="Mail" >
                                     </span>
-                                    <a class="text-color-secondary text-color-hover-primary text-decoration-none" href="mailto:contacto@laurentishumanity.com">contacto@laurentishumanity.com</a>
+                                    <a class="text-color-secondary text-color-hover-primary text-decoration-none" href="mailto:{{ __('messages.email_laurentis') }}">{{ __('messages.email_laurentis') }}</a>
                                 </span>
                                 {{-- <span class="footer-nav-opening-hours px-0 font-weight-normal d-flex align-items-center text-color-secondary justify-content-start mb-2 mb-lg-0">
                                     <span>
@@ -93,7 +93,7 @@
             </div>
             <div class="col-lg-12 text-center m-0">
                 <a href="https://www.nixdit.com/" target="_blank" class="logo pr-0 pr-lg-3">
-                    <img alt="Logo Nixdit" src="{{ asset('porto/img/logos/logo-footer.png') }}" class="opacity-5" height="33">
+                    <img title="Logo Nix" alt="Logo Nixdit" src="{{ asset('porto/img/logos/logo-footer.png') }}" class="opacity-5" height="33">
                 </a>
                 <div class="col text-center">
                 <p>Sitio desarrollado por NIX Diseño, Innovación y Tecnología.</p>

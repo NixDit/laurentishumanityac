@@ -51,7 +51,7 @@
                 <div class="col-sm-12 col-md-6 col-xl-4 bg-light p-0 shadow-none">
                     <div class="card border-radius-0 border-0 shadow-none">
                         <div class="card-body d-flex align-items-center justify-content-between flex-column z-index-1">
-                            <img src="{{ asset('porto/img/demos/business-consulting-2/icons/efectivox.jpg') }}" alt="Strategic Planning" class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="100">
+                            <img src="{{ asset('porto/img/demos/business-consulting-2/icons/efectivox.jpg') }}" alt="Donacion en efectivo" title="Donacion en efectivo" class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="100">
                             <h4 class="card-title mb-1 font-weight-semibold text-color-secondary appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="200">Donaciones en efectivo</h4>
                             <p class="card-text text-center pt-2 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="300">Tu ayuda fortalece la causa...</p>
                             <a href="javascript:;" class="font-weight-bold text-uppercase text-decoration-none mt-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="400">Leer más +</a>
@@ -61,7 +61,7 @@
                 <div class="col-sm-12 col-md-6 col-xl-4 bg-light p-0 shadow-none">
                     <div class="card border-radius-0 border-0 shadow-none">
                         <div class="card-body d-flex align-items-center justify-content-between flex-column z-index-1">
-                            <img src="{{ asset('porto/img/demos/business-consulting-2/icons/especie.jpg') }}" alt="Financial Clean-Up" class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="500">
+                            <img src="{{ asset('porto/img/demos/business-consulting-2/icons/especie.jpg') }}" alt="Donacion en especie" title="Donacion en especie" class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="500">
                             <h4 class="card-title mb-1 font-weight-semibold text-color-secondary appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="600">Donaciones en especie</h4>
                             <p class="card-text text-center pt-2 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="700">Con este tipo de donativos podemos cubrir las necesidades diarias de muchos hogares...</p>
                             <a href="javascript:;" class="font-weight-bold text-uppercase text-decoration-none mt-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800">Leer más +</a>
@@ -71,7 +71,7 @@
                 <div class="col-sm-12 col-md-6 col-xl-4 bg-light p-0 shadow-none">
                     <div class="card border-radius-0 border-0 shadow-none">
                         <div class="card-body d-flex align-items-center justify-content-between flex-column z-index-1 border-end-0">
-                            <img src="{{ asset('porto/img/demos/business-consulting-2/icons/voluntario.jpg') }}" alt="Cash Flow Planning" class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="900">
+                            <img src="{{ asset('porto/img/demos/business-consulting-2/icons/voluntario.jpg') }}" alt="Apoyo voluntario" title="Apoyo voluntario" class="appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="900">
                             <h4 class="card-title mb-1 font-weight-semibold text-color-secondary appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1000">Trabajo de voluntario</h4>
                             <p class="card-text text-center pt-2 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1100">Con tu apoyo contribuyes al bienestar y desarrollo de muchas comunidades...</p>
                             <a href="javascript:;" class="font-weight-bold text-uppercase text-decoration-none mt-3 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1200">Leer más +</a>
@@ -83,7 +83,7 @@
     </section>
 
     <section class="our-services d-flex p-relative z-index-1 bg-color-light lazyload">
-        <img src="{{ asset('porto/img/demos/business-consulting-2/bg/que-hacemos.jpg') }}" class="col-img-our-services p-absolute overflow-hidden w-50 h-100 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="100">
+        <img title="Que hacemos en laurentis humanity" alt="Que hacemos en laurentis Humanity" src="{{ asset('porto/img/demos/business-consulting-2/bg/que-hacemos.jpg') }}" class="col-img-our-services p-absolute overflow-hidden w-50 h-100 appear-animation" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="100">
         {{-- <div class="col-img-our-services p-absolute overflow-hidden w-50 h-100"></div> --}}
         <div class="container">
             <div class="row justify-content-end align-items-center h-100">
@@ -166,13 +166,13 @@
                 </div>
                 <div class="col-lg-6 col-coaching-consulting-imgs p-relative">
                     <div class="card border-radius-0 box-shadow-1 border-0 p-3 appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="300">
-                        <img src="{{ asset('porto/img/demos/business-consulting-2/coaching/donation3.jpg') }}" class="img-fluid border-radius-0" alt="">
+                        <img src="{{ asset('porto/img/demos/business-consulting-2/coaching/donation3.jpg') }}" class="img-fluid border-radius-0" alt="Donacion Laurentis Humanity" title="Donacion Laurentis Humanity" >
                     </div>
                     <div class="card border-radius-0 box-shadow-1 border-0 p-3 appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="300">
-                        <img src="{{ asset('porto/img/demos/business-consulting-2/coaching/donation.jpg') }}" class="img-fluid border-radius-0" alt="">
+                        <img src="{{ asset('porto/img/demos/business-consulting-2/coaching/donation.jpg') }}" class="img-fluid border-radius-0" alt="Donacion Laurentis Humanity" title="Donacion Laurentis Humanity" >
                     </div>
                     <div class="card border-radius-0 box-shadow-1 border-0 p-3 appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="300">
-                        <img src="{{ asset('porto/img/demos/business-consulting-2/coaching/donation1.jpg') }}" class="img-fluid border-radius-0" alt="">
+                        <img src="{{ asset('porto/img/demos/business-consulting-2/coaching/donation1.jpg') }}" class="img-fluid border-radius-0" alt="Donacion Laurentis Humanity" title="Donacion Laurentis Humanity" >
                     </div>
                 </div>
             </div>
@@ -274,7 +274,7 @@
                 <div class="col-xl-6 d-flex align-items-start align-items-sm-center justify-content-start justify-content-xl-end mt-4 mt-xl-0 flex-column flex-sm-row">
                     <span class="are-you-looking-for-phone py-2 d-flex align-items-center text-color-light font-weight-semibold text-uppercase text-4 mb-4 mb-md-0 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="500">
                         <span>
-                            <img width="18" height="25" src="{{ asset('porto/img/demos/business-consulting-2/icons/phone.svg') }}" alt="Phone">
+                            <img width="18" height="25" src="{{ asset('porto/img/demos/business-consulting-2/icons/phone.svg') }}" alt="Phone" title="Phone" >
                         </span>
                         <a class="text-color-light text-decoration-none" href="tel:5523316986">(+52) 55 2331 6986</a>
                     </span>
@@ -300,7 +300,7 @@
                                 <div class="card border-0 border-radius-0 box-shadow-1 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="500">
                                     <div class="card-body p-4 z-index-1">
                                         <a href="javacript:;">
-                                            <img class="card-img-top border-radius-0" src="{{ asset('porto/img/demos/business-consulting-2/blog/actividades1.jpg') }}" alt="Card Image">
+                                            <img class="card-img-top border-radius-0" src="{{ asset('porto/img/demos/business-consulting-2/blog/actividades1.jpg') }}" alt="Actividades Laurentis" title="Actividades Laurentis" >
                                         </a>
                                         {{-- <p class="text-uppercase text-1 mb-3 pt-1 text-color-default"><time pubdate datetime="2023-01-10">10 Jan 2023</time> <span class="opacity-3 d-inline-block px-2">|</span> 3 Comments <span class="opacity-3 d-inline-block px-2">|</span> John Doe</p> --}}
                                         <div class="card-body p-0">
@@ -317,7 +317,7 @@
                                 <div class="card border-0 border-radius-0 box-shadow-1 appear-animation" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="700">
                                     <div class="card-body p-4 z-index-1">
                                         <a href="javacript:;">
-                                            <img class="card-img-top border-radius-0" src="{{ asset('porto/img/demos/business-consulting-2/blog/actividades2.jpg') }}" alt="Card Image">
+                                            <img class="card-img-top border-radius-0" src="{{ asset('porto/img/demos/business-consulting-2/blog/actividades2.jpg') }}" alt="Actividades Laurentis" title="Actividades Laurentis" >
                                         </a>
                                         {{-- <p class="text-uppercase text-1 mb-3 pt-1 text-color-default"><time pubdate datetime="2023-01-10">10 Jan 2023</time> <span class="opacity-3 d-inline-block px-2">|</span> 3 Comments <span class="opacity-3 d-inline-block px-2">|</span> John Doe</p> --}}
                                         <div class="card-body p-0">

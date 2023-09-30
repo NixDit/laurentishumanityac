@@ -44,9 +44,9 @@
                 <div class="header-column header-column-logo">
                     <div class="header-row">
                         <div class="header-logo">
-                            <a href="demo-business-consulting-2.html">
+                            <a href="/">
                                 {{-- <img alt="Porto" width="123" height="32" src="{{ asset('porto/img/demos/business-consulting-2/logos/porto.png') }}"> --}}
-                                <img alt="Porto" width="123" height="62" src="{{ asset('porto/img/demos/business-consulting-2/logos/logo-laurentis.png') }}">
+                                <img title="Logo Laurentis" alt="Logo Laurentis Humanity" width="123" height="62" src="{{ asset('porto/img/demos/business-consulting-2/logos/logo-laurentis.png') }}">
                             </a>
                         </div>
                     </div>
